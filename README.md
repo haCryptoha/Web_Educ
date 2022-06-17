@@ -1,5 +1,4 @@
-# React-Django app
-Simple setup for a React-Django web app. See tutorial here: https://alphacoder.xyz/dead-simple-react-django-setup.
+# React-Django Education App
 
 ## Setup
 - Download/clone repo.
@@ -9,6 +8,3 @@ Simple setup for a React-Django web app. See tutorial here: https://alphacoder.x
 - Install React dependencies with `npm install`. 
 - Run React app with `npm start`.
 - Build React app using `npm run build`.
-
-## Deploy
-Read my tutorial on deploying this app to Heroku here: https://alphacoder.xyz/deploy-react-django-app-on-heroku.
